@@ -33,10 +33,13 @@ El diagrama separa dos pools: el **Cliente** (actor externo) y **SaltaDog**, con
 
 ## 📌 Historias de Usuario
 
+| Historia de Usuario | Issue | Estado en el tablero |
 |---|---|---|
-| Como usuario, quiero consultar el estado de los procesos, para tener seguimiento en tiempo real de la gestión. | [#3](https://github.com/magnus92p/tp-organizacion-empresarial-Pedraza-Gaston/issues/3) | Por Hacer |
-| Como administrador, quiero generar reportes estructurados, para evaluar los indicadores de control organizativo. | [#4](https://github.com/magnus92p/tp-organizacion-empresarial-Pedraza-Gaston/issues/4) | En Progreso |
-| Como operador, quiero gestionar las excepciones del flujo BPMN, para asegurar la resolución de incidencias. | [#5](https://github.com/magnus92p/tp-organizacion-empresarial-Pedraza-Gaston/issues/5) | Listo |
+| Como usuario, quiero consultar el estado de los procesos, para tener seguimiento en tiempo real de la gestión. | [#3](https://github.com/magnus92p/tp-organizacion-empresarial-Pedraza-Gaston/issues/3) | Por Hacer (Backlog) |
+| Como administrador, quiero generar reportes estructurados, para evaluar los indicadores de control organizativo. | [#4](https://github.com/magnus92p/tp-organizacion-empresarial-Pedraza-Gaston/issues/4) | En Progreso (In progress) |
+| Como operador, quiero gestionar las excepciones del flujo BPMN, para asegurar la resolución de incidencias. | [#5](https://github.com/magnus92p/tp-organizacion-empresarial-Pedraza-Gaston/issues/5) | Listo (Done) |
+
+Tablero ágil: [GitHub Projects](https://github.com/users/magnus92p/projects/2). Equivalencia de columnas: Backlog = Por Hacer, In progress = En Progreso, Done = Listo.
 
 ## 📊 Indicadores de Control y Estándares de Desempeño
 
